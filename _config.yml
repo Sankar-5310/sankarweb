@@ -1,11 +1,7 @@
-title: "My IAM Automation Blog"
-description: "Scripts and tutorials for IAM automation"
-baseurl: ""
-url: ""
-theme: null
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-  - jekyll-feed
-markdown: kramdown
-highlighter: rouge
-author: Sankar
-color_scheme: auto
+  - jekyll-remote-theme
+
+# Site settings
+title: My Awesome Site
+description: This is my personal GitHub Pages site using the Minimal theme.

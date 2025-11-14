@@ -1,6 +1,0 @@
-title: "My IAM Automation Blog"
-description: "Scripts and tutorials for IAM automation"
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic  # or whichever theme repo you choose  
-plugins:
-  - jekyll-remote-theme
-color-scheme: auto  # for themes that support light/dark toggle

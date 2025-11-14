@@ -1,0 +1,11 @@
+title: "My IAM Automation Blog"
+description: "Scripts and tutorials for IAM automation"
+
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+
+plugins:
+  - jekyll-remote-theme
+
+# Theme options (supported by minimalistic theme)
+color-scheme: auto
+show_downloads: false
